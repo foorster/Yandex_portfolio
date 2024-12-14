@@ -3,4 +3,4 @@
 ![Макет1](https://github.com/user-attachments/assets/0bf14f99-1b45-4ca2-ae1e-03c1ae23004b)
 
 ### Страница 2 - работа с js. По клику на кнопку "Еще идея" генерируется случайное событие и картинка.
-![Макет2](https://github.com/user-attachments/assets/49a552df-45f6-49c6-9ec7-4ed8953cc219)
+![y3 (1)](https://github.com/user-attachments/assets/b5f067d1-3604-4b9e-a5b0-0e8f20af0460)
